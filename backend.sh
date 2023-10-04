@@ -11,7 +11,6 @@ unzip /tmp/backend.zip
 
 npm install
 
-
 systemctl daemon-reload
 systemctl enable backend
 systemctl start backend
